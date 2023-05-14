@@ -14,7 +14,7 @@ Propeller - Twin Blade \
 Raspberry Pi - Model No.4 4GB RAM \
 Camera - 8Mp Raspberry Camera \
 Mini Submersible Pump - 3-6V, 130-220mA \
-Motor Driver - BMP 280 Sensor \
+Motor Driver - BMP 280 Sensor 
 
 <h2>Image Gallery</h2>
 
